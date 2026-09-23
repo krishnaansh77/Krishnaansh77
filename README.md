@@ -4,6 +4,14 @@
 
 <br><br>
 
-<h3>With great powers, comes great responsibilities.</h3>
+<table>
+<tr>
+<td align="center">
+
+<b>With great powers, comes great responsibilities.</b>
+
+</td>
+</tr>
+</table>
 
 </div>
