@@ -32,7 +32,7 @@ I'm a Computer Science Engineering student interested in
 
 ### 🛠️ Technologies
 
-`Python` `Java` `C++` `JavaScript` `React` `Next.js` `FastAPI` `SQL` `Git`
+`Python` `Java` `C` `JavaScript` `React` `Next.js` `FastAPI` `SQL` `CSS` `HTML` `Django` `Git`
 
 ### 📌 Featured Projects
 
