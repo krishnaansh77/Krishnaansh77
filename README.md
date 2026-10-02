@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 Hi, I'm Bhanu
+## 👋 Hi, I'm Ayush
 
 I'm a Computer Science Engineering student interested in
 **Artificial Intelligence, Machine Learning and Software Engineering.**
